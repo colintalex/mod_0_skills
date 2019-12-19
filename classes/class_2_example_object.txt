@@ -1,0 +1,13 @@
+Object: Bar Cooler
+
+Attributes:
+total_space (450)
+used_space (350)
+items_inside ["limes", "lemons", "side salad"]
+is_closed (boolean)
+
+Methods:
+add_food (used_space = 400, items_inside = ["limes", "lemons", "side salad", "dressing"]
+close_door (is_closed = true)
+calc_open_space (450 - 400 = 50)
+eat_food (is_closed = false, items_inside = ["limes", "side salad", "dressing"], used_space = 350 is_closed = true)
