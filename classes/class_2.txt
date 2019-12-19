@@ -1,0 +1,14 @@
+Class : FoodCooler
+
+Attributes:
+total_space (integer)
+used_space (integer)
+items_inside (array)
+is_closed (boolean)
+
+
+Methods:
+add_food (adds an item to array, increases used_space)
+close_door (is_closed to true)
+calc_open_space (total_space - used_space)
+eat_food (is_closed = false, remove item from items_inside, is_closed = true)
