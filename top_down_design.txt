@@ -1,0 +1,121 @@
+How to Become a Turing Student
+
+1 Research
+  1.1 Determine if Coding is Right for You
+    1.1.1 Try it out online
+      1.1.1.1 Simulators
+        1.1.1.1.1 Google Try Coding Online
+        1.1.1.1.2 Browse/Select your choice of site(s)
+      1.1.1.2 Testimonials
+        1.1.1.2.1 Google 'Coding testiomonials'
+        1.1.1.2.2 Google 'Coding Job Satisfaction'
+        1.1.1.2.3 Google any factor you may be curious about
+    1.1.2 Try Coding Event
+      1.1.2.1 Find out which date works for you
+      1.1.2.2 Sign up for class
+      1.1.2.3 Go to scheduled event
+      1.1.2.4 Did you have fun??
+    1.1.3 Determine FrontEnd or BackEnd
+      1.1.3.1 Google primary differences
+        1.1.3.1.1 Find major differences
+        1.1.3.1.2 Reflect on your strengths/experience
+      1.1.3.2 Reflect from Try Coding / past research
+  1.3 Are You Prepared to Take the Plunge
+    1.3.1 Financially Prepared
+      1.3.1.1 7-9 mos rent
+      1.3.1.2 Food/Necessities
+      1.3.1.3 No work during class
+    1.3.2 Mentally Prepared
+      1.3.2.1 Support from Close Ones
+      1.3.2.2 Dedicate yourself to outcome
+2 Apply
+  2.1 Web Application
+    2.1.1 Go to turing.io
+      2.1.1.1 Open web browser
+      2.1.1.2 Type turing.io
+      2.1.1.3 Hit Return
+    2.1.2 Click Apply Now near the bottom of homepage
+      2.1.2.1 Scroll Down
+      2.1.2.2 Click Apply Now
+    2.1.3 Complete Application
+      2.1.3.1 Personal Information Section
+      2.1.3.2 Work History Section
+      2.1.3.3 Education History Section
+      2.1.3.4 Strengths/Weaknesses Section
+      2.1.3.5 Strategy Quiz
+    2.1.4 Submit Application
+      2.1.4.1 Verify all your information entered is correct
+      2.1.4.2 Click Submit Application
+  2.2 Interview
+    2.2.1 Schedule Interview
+      2.2.1.1 Application Must Be Completed Prior
+      2.2.1.2 Select Date/Time for your interview
+      2.2.1.3 Select Confirm
+      2.2.1.4 Verify in Email
+        2.2.1.4.1 Open Email App
+        2.2.1.4.2 Refresh
+        2.2.1.4.3 Open Interview Confirmation Email
+    2.2.2 Go to Interview
+      2.2.2.1 Arrive 10 mins early
+      2.2.2.2 Meet Interviewer
+      2.2.2.3 Interview
+        2.2.2.3.1 Verbal Interview
+        2.2.2.3.2 In-Person Assesment Quiz
+      2.2.2.4 Take Tour
+    2.2.3 Wait for Response
+3 Turing Prep
+  3.1 Deposit
+    3.1.1 Go to turing.io/prep
+    3.1.2 Select link for Tuition Deposit
+    3.1.3 Complete forms
+    3.1.4 Submit Deposit
+    3.1.5 Provide Address for Computer
+  3.2 Intake Survey
+    3.2.1 Take Online Survey
+    3.2.2 Phone Call w/ Darren
+      3.2.2.1 Schedule call Time
+      3.2.2.2 Make sure you are free during that time
+  3.3 Put Name on Laptop
+    3.3.1 Buy Sharpie
+    3.3.2 Write your name on your charger
+    3.3.3 Write name on bottom of laptop
+  3.4 Pay Tuition
+    3.4.1 Determine LumpSum or Finance Assistance
+      3.4.1.1 Crunch the numbers
+        3.4.1.1.1 Tuition/Supplies
+        3.4.1.1.2 Cost of Living
+        3.4.1.1.3 Transportation
+    3.4.2 Apply for Loan
+      3.4.2.1 Go to turing.io/prep
+      3.4.2.2 View available options for fin. aid
+      3.4.2.3 Select best option for your
+      3.4.2.4 Complete Application
+        3.4.2.4.1 Select provider from Turings site
+        3.4.2.4.2 Apply on providers website
+  3.5 Join Slack
+    3.5.1 Wait 2 Weeks Before Mod0 Begins
+    3.5.2 Open Email Invitation
+    3.5.3 Create Slack Account
+    3.5.4 Download Slack app to Laptop/phone
+4 Mod 0
+  4.1 Schedule free time for classes
+  4.2 Computer Setup
+  4.3 Attend Every Session
+5 Capstone
+  5.1 Start as early as possible
+  5.2 Complete Capstone
+    5.2.1 Day_0
+    5.2.2 Day_1
+    5.2.3 Day_3
+    5.2.4 Day_4
+    5.2.5 Day_5
+    5.2.6 Day_6
+    5.2.7 Day_7
+    5.2.8 Day_8
+  5.3 Submit Capstone
+6 Stay Fresh for Mod 1
+  6.1 Review exercies
+  6.2 Review current knowledge
+  6.3 Practe/Play
+    6.3.1 Use IRB to answer your questions
+    6.3.2 Experiment, experiment!
