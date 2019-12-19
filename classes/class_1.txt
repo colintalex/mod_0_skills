@@ -1,0 +1,13 @@
+Class: Stove
+
+Attributes:
+active_burners (integer)
+number_of_burners  (integer)
+flame_on (boolean)
+is_hot (boolean)
+
+Methods:
+turn_on = (flame_on = true, is_hot = true, active_burners increase by 1)
+turn_off = (flame_on = false, is_hot = false after 10 mins, active_burners to 0)
+increase_heat = (increase active burners)
+hot_burners = (checks flame_on = true, prints active burners)
